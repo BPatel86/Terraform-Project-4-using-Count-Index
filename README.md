@@ -1,6 +1,6 @@
 # Terraform-Project-4-using-Count-Index
 
-This Terraform project demonstrates how to create **five Load Balancers** using the `count` and `count.index' in Terraform.
+This Terraform project demonstrates how to create **five Load Balancers** using the `count` and `count.index` in Terraform.
 
 ## 🔧 What This Project Does
 
